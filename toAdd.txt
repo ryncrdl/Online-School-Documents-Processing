@@ -1,0 +1,14 @@
+1. Password should be hash.
+3. Back-up
+4. Request - no button for where to pay.
+5. follow MVC : 
+* public/view folder - all UI will be here
+* public/lib - all for desining purposes will be here.
+*src/controller - all code logic will be here.
+USE PHP PDO.
+
+For Admin
+-admin/index.php
+
+For Student
+-student/index.php

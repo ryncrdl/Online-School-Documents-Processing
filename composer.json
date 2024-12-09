@@ -1,0 +1,9 @@
+{
+  "name": "kaye/online-school-documents-processing",
+  "autoload": {
+    "psr-4": {
+      "App\\": "./"
+    }
+  },
+  "require": {}
+}
